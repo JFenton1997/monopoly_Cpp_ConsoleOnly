@@ -1,0 +1,6 @@
+The Angel Inslington
+prop
+blue
+100
+6,30,90,270,400,550
+

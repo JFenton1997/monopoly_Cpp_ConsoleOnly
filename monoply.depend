@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1494182186 source:c:\users\user\documents\code\monoply\board.cpp
+
+1494175137 c:\users\user\documents\code\monoply\board.h
+	"Sq.h"
+
+1494175385 c:\users\user\documents\code\monoply\sq.h
+	"MonopolyHeader.h"
+
+1494176999 c:\users\user\documents\code\monoply\monopolyheader.h
+	<ctime>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+
+1495569715 source:c:\users\user\documents\code\monoply\main.cpp
+	"MonopolyHeader.h"
+	"game.h"
+
+1495468430 c:\users\user\documents\code\monoply\extrafunctions.h
+	"MonopolyHeader.h"
+
+1494176246 source:c:\users\user\documents\code\monoply\sq.cpp
+	"Sq.h"
+
+1495918511 c:\users\user\documents\code\monoply\include\board.h
+	"Sq.h"
+	"players.h"
+
+1495639237 c:\users\user\documents\code\monoply\include\sq.h
+	"MonopolyHeader.h"
+
+1495595584 c:\users\user\documents\code\monoply\include\monopolyheader.h
+	<fstream>
+	<istream>
+	<string>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<random>
+	<limits>
+	<chrono>
+	<thread>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+
+1495569907 source:c:\users\user\documents\code\monoply\src\player.cpp
+	"Player.h"
+
+1495640962 source:c:\users\user\documents\code\monoply\src\sq.cpp
+	"Sq.h"
+
+1496083247 source:c:\users\user\documents\code\monoply\src\board.cpp
+	"Board.h"
+
+1495562523 c:\users\user\documents\code\monoply\include\player.h
+	"MonopolyHeader.h"
+
+1495919079 source:c:\users\user\documents\code\monoply\src\players.cpp
+	"Players.h"
+
+1495919079 c:\users\user\documents\code\monoply\include\players.h
+	<Player.h>
+	"MonopolyHeader.h"
+	"dice.h"
+
+1494184258 source:c:\users\user\documents\code\monoply\include\players.h
+	<Player.h>
+
+1495911494 source:c:\users\user\documents\code\monoply\src\dice.cpp
+	"dice.h"
+	<cstdlib>
+
+1495911227 c:\users\user\documents\code\monoply\include\dice.h
+	"MonopolyHeader.h"
+
+1495592264 source:c:\users\user\documents\code\monoply\src\chance.cpp
+	"chance.h"
+
+1495918511 c:\users\user\documents\code\monoply\include\chance.h
+	"player.h"
+	"players.h"
+	"board.h"
+
+1495594668 source:c:\users\user\documents\code\monoply\src\communitychest.cpp
+	"communityChest.h"
+
+1495918511 c:\users\user\documents\code\monoply\include\communitychest.h
+	"Players.h"
+	"board.h"
+
+1495468980 source:c:\users\user\documents\code\monoply\game.cpp
+	"board.h"
+	"Players.h"
+	"dice.h"
+	"extraFunctions.h"
+	"MonopolyHeader.h"
+	"chance.h"
+	"communityChest.h"
+
+1495470111 c:\users\user\documents\code\monoply\game.cpp
+	"board.h"
+	"Players.h"
+	"dice.h"
+	"chance.h"
+	"communityChest.h"
+
+1495595748 c:\users\user\documents\code\monoply\include\extrafunctions.h
+
+1495895798 source:c:\users\user\documents\code\monoply\src\game.cpp
+	"game.h"
+	"functions.cpp"
+
+1495724963 c:\users\user\documents\code\monoply\include\game.h
+	"MonopolyHeader.h"
+	"Players.h"
+	"board.h"
+	"dice.h"
+	"chance.h"
+	"communityChest.h"
+	"boardState.h"
+
+1495731977 source:c:\users\user\documents\code\monoply\src\boardstate.cpp
+	"boardState.h"
+
+1495731977 c:\users\user\documents\code\monoply\include\boardstate.h
+	<board.h>
+	<players.h>
+
+1495910857 source:c:\users\user\documents\code\monoply\src\main.cpp
+	"MonopolyHeader.h"
+	"game.h"
+
+1495919092 c:\users\user\documents\code\monoply\include\functions.cpp
+

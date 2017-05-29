@@ -1,0 +1,3 @@
+Go to jail. Move directly to jail. Do not pass "Go". Do not collect 200
+goToJail
+0

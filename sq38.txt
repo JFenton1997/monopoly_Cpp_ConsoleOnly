@@ -1,0 +1,5 @@
+Luxury Tax
+tax
+none
+100
+0,0,0,0,0,0

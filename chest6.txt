@@ -1,0 +1,3 @@
+Grand Opera Night Collect 50 from every player for opening night seats
+moneyFromPlayers
+50

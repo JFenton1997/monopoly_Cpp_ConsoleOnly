@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="monoply" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="C:\Users\User\Documents\code\monoply\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/monoply" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/monoply" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="0.txt" />
+		<Unit filename="1.txt" />
+		<Unit filename="10.txt" />
+		<Unit filename="11.txt" />
+		<Unit filename="12.txt" />
+		<Unit filename="13.txt" />
+		<Unit filename="14.txt" />
+		<Unit filename="15.txt" />
+		<Unit filename="16.txt" />
+		<Unit filename="17.txt" />
+		<Unit filename="18.txt" />
+		<Unit filename="19.txt" />
+		<Unit filename="2.txt" />
+		<Unit filename="20.txt" />
+		<Unit filename="21.txt" />
+		<Unit filename="22.txt" />
+		<Unit filename="23.txt" />
+		<Unit filename="24.txt" />
+		<Unit filename="25.txt" />
+		<Unit filename="26.txt" />
+		<Unit filename="27.txt" />
+		<Unit filename="28.txt" />
+		<Unit filename="29.txt" />
+		<Unit filename="3.txt" />
+		<Unit filename="30.txt" />
+		<Unit filename="31.txt" />
+		<Unit filename="32.txt" />
+		<Unit filename="33.txt" />
+		<Unit filename="34.txt" />
+		<Unit filename="35.txt" />
+		<Unit filename="36.txt" />
+		<Unit filename="37.txt" />
+		<Unit filename="38.txt" />
+		<Unit filename="39.txt" />
+		<Unit filename="4.txt" />
+		<Unit filename="5.txt" />
+		<Unit filename="6.txt" />
+		<Unit filename="7.txt" />
+		<Unit filename="8.txt" />
+		<Unit filename="9.txt" />
+		<Unit filename="chance0.txt" />
+		<Unit filename="chance1.txt" />
+		<Unit filename="chance10.txt" />
+		<Unit filename="chance11.txt" />
+		<Unit filename="chance12.txt" />
+		<Unit filename="chance13.txt" />
+		<Unit filename="chance14.txt" />
+		<Unit filename="chance2.txt" />
+		<Unit filename="chance3.txt" />
+		<Unit filename="chance4.txt" />
+		<Unit filename="chance5.txt" />
+		<Unit filename="chance6.txt" />
+		<Unit filename="chance7.txt" />
+		<Unit filename="chance8.txt" />
+		<Unit filename="chance9.txt" />
+		<Unit filename="chest0.txt" />
+		<Unit filename="chest1.txt" />
+		<Unit filename="chest10.txt" />
+		<Unit filename="chest11.txt" />
+		<Unit filename="chest12.txt" />
+		<Unit filename="chest13.txt" />
+		<Unit filename="chest14.txt" />
+		<Unit filename="chest15.txt" />
+		<Unit filename="chest16.txt" />
+		<Unit filename="chest2.txt" />
+		<Unit filename="chest3.txt" />
+		<Unit filename="chest4.txt" />
+		<Unit filename="chest5.txt" />
+		<Unit filename="chest6.txt" />
+		<Unit filename="chest7.txt" />
+		<Unit filename="chest8.txt" />
+		<Unit filename="chest9.txt" />
+		<Unit filename="include/MonopolyHeader.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/Players.h" />
+		<Unit filename="include/Sq.h" />
+		<Unit filename="include/board.h" />
+		<Unit filename="include/boardState.h" />
+		<Unit filename="include/chance.h" />
+		<Unit filename="include/communityChest.h" />
+		<Unit filename="include/dice.h" />
+		<Unit filename="include/extraFunctions.h" />
+		<Unit filename="include/game.h" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Players.cpp" />
+		<Unit filename="src/Sq.cpp" />
+		<Unit filename="src/board.cpp" />
+		<Unit filename="src/boardState.cpp" />
+		<Unit filename="src/chance.cpp" />
+		<Unit filename="src/communityChest.cpp" />
+		<Unit filename="src/dice.cpp" />
+		<Unit filename="src/game.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" use_define="0" update_manifest="1" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
