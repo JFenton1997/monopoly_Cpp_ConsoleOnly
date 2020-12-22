@@ -1,2 +1,2 @@
-# monopoly
-foundation programming project - monopoly
+# monopoly C++
+foundation year programming project - monopoly.
